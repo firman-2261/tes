@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 firman dua hjkl
+=======
+firman anak pi
+>>>>>>> ad05c47079e440788805bc643734e6c905710159
